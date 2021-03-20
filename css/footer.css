@@ -1,0 +1,61 @@
+.footer1{
+	background-color: black;
+	width: 100%;
+}
+
+.footer1 h3{
+	font-family: 'Vidaloka', serif;
+	color: white;
+}
+.footer1 p{
+	font-family: 'Montserrat', sans-serif;
+	color: #373737;
+	margin: 0 0 0 0
+}
+.footer .center ul{
+	list-style-type: none;
+}
+.footer1 .three{
+	padding: 0 0px!important;
+}
+
+.footer2 {
+   width: 100%;
+   background-color: #171A1C;
+   color: white;
+   /*height:11vh;*/
+   border-top: 2px solid #5E5F61;
+   padding: 10px;
+}
+.footer2 p{
+	margin: 0 0 0px;
+}
+.footer2 .Social{
+	text-align: right;
+	margin: 0 3rem;
+	padding-top: 1rem;
+}
+.facebook{
+	border: 2px solid #5E5F61;
+	padding: 10px 10px;
+	border-radius: 6px;
+	margin: 0 5px;
+}
+.tiwtter{
+	border: 2px solid #5E5F61;
+	padding: 10px 10px;
+	border-radius: 6px;
+	margin: 0 5px;
+}
+.google{
+	border: 2px solid #5E5F61;
+	padding: 10px 10px;
+	border-radius: 6px;
+	margin: 0 5px;
+}
+.linkdin{
+	border: 2px solid #5E5F61;
+	padding: 10px 10px;
+	border-radius: 6px;
+	margin: 0 5px;
+}
